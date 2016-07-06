@@ -1,3 +1,3 @@
-HTML source files for "Essays by Niklas Luhmann"
+HTML source files for "Two Essays by Niklas Luhmann"
 
 http://luhmann.surge.sh
